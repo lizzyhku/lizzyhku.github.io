@@ -1,1 +1,1 @@
-This is Qianru Zhang's personal homepage: qianruzhang.github.io.
+This is Qianru Zhang's personal homepage: https://lizzyhku.github.io/
